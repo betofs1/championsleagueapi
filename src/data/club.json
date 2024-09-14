@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid"
+    },
+    {
+        "id": 2,
+        "name": "Barcelona"
+    },
+    {
+        "id": 3,
+        "name": "Manchester City"
+    },
+    {
+        "id": 4,
+        "name": "Bayern Munich"
+    },
+    {
+        "id": 5,
+        "name": "Paris Saint-Germain"
+    },
+    {
+        "id": 6,
+        "name": "Liverpool"
+    },
+    {
+        "id": 7,
+        "name": "Chelsea"
+    },
+    {
+        "id": 8,
+        "name": "Juventus"
+    },
+    {
+        "id": 9,
+        "name": "Inter Milan"
+    },
+    {
+        "id": 10,
+        "name": "AC Milan"
+    },
+    {
+        "id": 11,
+        "name": "Atletico Madrid"
+    },
+    {
+        "id": 12,
+        "name": "Borussia Dortmund"
+    },
+    {
+        "id": 13,
+        "name": "Tottenham Hotspur"
+    },
+    {
+        "id": 14,
+        "name": "RB Leipzig"
+    },
+    {
+        "id": 15,
+        "name": "Sevilla"
+    },
+    {
+        "id": 16,
+        "name": "Napoli"
+    },
+    {
+        "id": 17,
+        "name": "Benfica"
+    },
+    {
+        "id": 18,
+        "name": "Porto"
+    },
+    {
+        "id": 19,
+        "name": "Ajax"
+    },
+    {
+        "id": 20,
+        "name": "Shakhtar Donetsk"
+    },
+    {
+        "id": 21,
+        "name": "Zenit St. Petersburg"
+    },
+    {
+        "id": 22,
+        "name": "Lyon"
+    },
+    {
+        "id": 23,
+        "name": "Atalanta"
+    },
+    {
+        "id": 24,
+        "name": "Lazio"
+    },
+    {
+        "id": 25,
+        "name": "Red Bull Salzburg"
+    },
+    {
+        "id": 26,
+        "name": "Club Brugge"
+    },
+    {
+        "id": 27,
+        "name": "Galatasaray"
+    },
+    {
+        "id": 28,
+        "name": "Celtic"
+    },
+    {
+        "id": 29,
+        "name": "Rangers"
+    },
+    {
+        "id": 30,
+        "name": "Dynamo Kyiv"
+    },
+    {
+        "id": 31,
+        "name": "Besiktas"
+    },
+    {
+        "id": 32,
+        "name": "Fenerbahce"
+    }
+]
